@@ -4,8 +4,6 @@ Version 1.3
 
 11/10/2020
 
-Trevor Butterworth
-
 **Summary:**
 
 This summary is to help you understand your obligations when writing to the Indicio Network, which is composed of a TestNet, DemoNet, and MainNet. It does not have any legal effect or replace the full legal text of the agreement provided below it.
